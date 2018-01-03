@@ -3,3 +3,7 @@ This is Git file 1
 some difference made in file 1
 
 some additional differnce
+
+change --> 1
+
+change --> 2
